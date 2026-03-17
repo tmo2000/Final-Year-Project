@@ -1,0 +1,6 @@
+model,semantic_fidelity,cultural_alignment
+claude,0.31722963,0.26592836
+deepseek,0.29576135,0.30815858
+gemini,0.3413002,0.28452796
+llama,0.2632743,0.26588696
+mistral,0.30778563,0.29004854
