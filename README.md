@@ -113,35 +113,6 @@ Each model was tasked with:
 
 ---
 
-## Project Structure
-├── data/
-│   ├── raw_dataset.csv
-│   └── cleaned_dataset.csv
-│
-├── notebooks/
-│   ├── data_cleaning.ipynb
-│   ├── eda.ipynb
-│   └── evaluation.ipynb
-│
-├── models/
-│   ├── prompts/
-│   └── outputs/
-│
-├── results/
-│   ├── bleu_scores.csv
-│   ├── bert_scores.csv
-│   ├── sentiment_analysis.csv
-│   └── cultural_alignment.csv
-│
-├── src/
-│   ├── preprocessing.py
-│   ├── evaluation.py
-│   └── metrics.py
-│
-├── README.md
-└── requirements.txt
----
-
 ## Ethical Considerations
 
 - Reducing bias in AI systems  
