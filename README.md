@@ -115,32 +115,31 @@ Each model was tasked with:
 
 ## Project Structure
 ├── data/
-│ ├── raw_dataset.csv
-│ ├── cleaned_dataset.csv
+│   ├── raw_dataset.csv
+│   ├── cleaned_dataset.csv
 │
 ├── notebooks/
-│ ├── data_cleaning.ipynb
-│ ├── eda.ipynb
-│ ├── evaluation.ipynb
+│   ├── data_cleaning.ipynb
+│   ├── eda.ipynb
+│   ├── evaluation.ipynb
 │
 ├── models/
-│ ├── prompts/
-│ ├── outputs/
+│   ├── prompts/
+│   ├── outputs/
 │
 ├── results/
-│ ├── bleu_scores.csv
-│ ├── bert_scores.csv
-│ ├── sentiment_analysis.csv
-│ ├── cultural_alignment.csv
+│   ├── bleu_scores.csv
+│   ├── bert_scores.csv
+│   ├── sentiment_analysis.csv
+│   ├── cultural_alignment.csv
 │
 ├── src/
-│ ├── preprocessing.py
-│ ├── evaluation.py
-│ ├── metrics.py
+│   ├── preprocessing.py
+│   ├── evaluation.py
+│   ├── metrics.py
 │
 ├── README.md
 └── requirements.txt
-
 
 ---
 
